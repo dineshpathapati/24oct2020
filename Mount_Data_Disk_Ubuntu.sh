@@ -6,6 +6,8 @@ trap 'last_command=$current_command; current_command=$BASH_COMMAND' DEBUG
 # echo an error message before exiting
 trap 'echo "\"${last_command}\" command filed with exit code $?."' EXIT
 
+#Before executing the script please check the read.md file https://github.com/dineshpathapati/24oct2020/blob/main/README.md
+
 #Pass the disk size as argument for this script
 
 size=$1
