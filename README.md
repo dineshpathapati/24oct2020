@@ -17,7 +17,7 @@ Reference link: https://docs.microsoft.com/en-us/azure/virtual-machines/linux/at
 Make sure you understand script completely before executing
 
 **Cautions**:
-*This script wont work on a VM which has encrypted disks.
-*Its recommended to execute the script only on new VMs.This script won't work for the multiple disk with same size.
+* This script wont work on a VM which has encrypted disks.
+* Its recommended to execute the script only on new VMs.This script won't work for the multiple disk with same size.
 
 
